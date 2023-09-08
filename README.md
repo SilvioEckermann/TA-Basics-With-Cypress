@@ -22,14 +22,14 @@ Test automation training with hands-on exercises with Cypress.io
 5. Navigate to the lesson folder
 6. Run `node lessonX.js` to run script, output will be displayed in the terminal
 ### 02-CypressBasics 
-1. Run `npm install --force` to install the dependencies (--force because application has a vulnerability in one of the dependencies)
-2. Run `npm start` to start the application (it will run on http://localhost:4200)
-3. Run `npx cypress open` to open Cypress.io
-4. . Run `npx cypress run` to run the tests in headless mode
+5. Run `npm install --force` to install the dependencies (--force because application has a vulnerability in one of the dependencies)
+6. Run `npm start` to start the application (it will run on http://localhost:4200)
+7. Run `npx cypress open` to open Cypress.io
+8. . Run `npx cypress run` to run the tests in headless mode
 ### 03-CypressApiTesting
-1. Run `npm install` to install the dependencies
-2. Run `npx cypress open` to open Cypress.io
-3. Run `npx cypress run` to run the tests in headless mode
+5. Run `npm install` to install the dependencies
+6. Run `npx cypress open` to open Cypress.io
+7. Run `npx cypress run` to run the tests in headless mode
 
 
 
