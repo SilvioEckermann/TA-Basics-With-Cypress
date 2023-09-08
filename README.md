@@ -21,7 +21,7 @@ For each of the Cypress examples (02-CypressBasics and 03-CypressApiTesting) fol
 
 1. Navigate to the example folder
 2. Run `npm install` to install the dependencies
-3. Run `npm run cypress:open` to open Cypress.io
-4. Run `npm run cypress:run` to run the tests in headless mode
+3. Run `npx cypress open` to open Cypress.io
+4. Run `npx cypress run` to run the tests in headless mode
 
 
