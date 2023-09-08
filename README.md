@@ -16,12 +16,21 @@ Test automation training with hands-on exercises with Cypress.io
 1. Clone this repository
 2. Open the project in Visual Studio Code
 3. Open a terminal in Visual Studio Code
+4. Navigate to the example folder
 
-For each of the Cypress examples (02-CypressBasics and 03-CypressApiTesting) follow these steps:
-
-1. Navigate to the example folder
-2. Run `npm install` to install the dependencies
+### 01-JS-Fundamentals
+5. Navigate to the lesson folder
+6. Run `node lessonX.js` to run script, output will be displayed in the terminal
+### 02-CypressBasics 
+1. Run `npm install --force` to install the dependencies (--force because application has a vulnerability in one of the dependencies)
+2. Run `npm start` to start the application (it will run on http://localhost:4200)
 3. Run `npx cypress open` to open Cypress.io
-4. Run `npx cypress run` to run the tests in headless mode
+4. . Run `npx cypress run` to run the tests in headless mode
+### 03-CypressApiTesting
+1. Run `npm install` to install the dependencies
+2. Run `npx cypress open` to open Cypress.io
+3. Run `npx cypress run` to run the tests in headless mode
+
+
 
 

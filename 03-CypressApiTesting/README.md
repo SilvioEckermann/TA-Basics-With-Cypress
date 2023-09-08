@@ -1,4 +1,4 @@
-# Cypress API Testing
+# 03-CypressApiTesting
 This project is a simple example of API testing with Cypress.io.
 
 ## System under test
